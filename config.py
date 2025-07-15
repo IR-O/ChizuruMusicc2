@@ -1,12 +1,10 @@
 from os import getenv
 
 
-API_ID = int(getenv("API_ID", "28178139"))
-API_HASH = getenv("API_HASH", "85172511f45230b7f8bb304f5ed8e6d8")
-BOT_TOKEN = getenv("BOT_TOKEN", "7260328743:AAE5cdFwgyFp9cYrxvcO1B0MRJrg7S4UMx0")
+API_ID = int(getenv("API_ID", "28542531"))
+API_HASH = getenv("API_HASH", "9f4889cd2437d72ede20428c07a909be")
+BOT_TOKEN = getenv("BOT_TOKEN", "6365132039:AAF48I0KgZe4cyHmhMiRx_K634u6BEKApDQ")
 OWNER_ID = int(getenv("OWNER_ID", "6045293810"))
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6045293810").split()))
-MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Sarkar123:GAUTAMMISHRA@sarkar.1uiwqkd.mongodb.net/?retryWrites=true&w=majority ")
-SESSION_STRING = getenv("SESSION_STRING", "BQG6AIcAHEVMl4zMzjOvu-hLUrkotaGcDGmNbm6ibJOwH1WE6iQCL2lc3NjYxUfmf6GNDXYMoYAirxx0Xi2GYxJ27NOqmc4fR38u7cXLjWHsigsI5kRYDhkhNf2kWlV1KkYkr2sCeFFLBaESqHIwsVhPgP-GzBrVNf83yUOQ-6g_6ej2h20KLm7Vrey1R4sgjLxU4JD3lOT1PrTYAsj1QiubNgO7lbvZzLrutW5H4xPHwS_vimYEARKbvAUGbHiE0dj4yzSdZXi5UwXpTyj6C_u1lK4liK7B1wEdmldWSBZVH6v-tN25fOg3-d2KsHJEoepSb97d2eUxApcdaOKMcOfJ-_DcGAAAAAG4_cSoAA")
-
-
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://String:iro@string.bfl5lcm.mongodb.net/?retryWrites=true&w=majority&appName=String")
+SESSION_STRING = getenv("SESSION_STRING", "BQDEFKsAgiokuBQL9u39ZqrvaCaQO3LKSggOy37pSrHZT5zVqgjq142NHplMweczk3QX9d7zyZtJRnkbAf68dI1UwZL6Zt8E-easqg2itztgxj1x9va6IZsqNUh9L6g8vo56oMeRC9zQ2B3ZIKQUAr-SQmbwKy4yaoZNV2dLrOa0CUC_F1gDWEcLdk-hdoUsQIfEeKVpVKJz8Qgj9YEd8YNgHjbt-TFE5WGcLhV12kjkCw8PCsx1sbALnoNk22TVrhc8HJQRuB5gdJxJeer8a1B4JBrSso6B84LPI0SjAHgu-xCiDI8Mi3h4YhM4c5EN-ajrSJZczpCYkp633E6eYan31cr2FgAAAAHmorCNAA")
