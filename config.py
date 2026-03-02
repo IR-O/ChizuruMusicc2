@@ -3,7 +3,7 @@ from os import getenv
 
 API_ID = int(getenv("API_ID", "26850449"))
 API_HASH = getenv("API_HASH", "72a730c380e68095a8549ad7341b0608")
-BOT_TOKEN = getenv("BOT_TOKEN", "8507690506:AAEs5Qff9YrjRl4lZjo6eyB9IwQhgQuFa_w")
+BOT_TOKEN = getenv("BOT_TOKEN", "6365132039:AAF48I0KgZe4cyHmhMiRx_K634u6BEKApDQ")
 OWNER_ID = int(getenv("OWNER_ID", "6045293810"))
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6045293810").split()))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://LUSTIFYXMUSIC:Abhi77394@lustifymusic.evxnqby.mongodb.net/?retryWrites=true&w=majority&appName=LUSTIFYMUSIC")
