@@ -1,5 +1,6 @@
 pyrogram==2.0.106
-tgcrypto
+tgcrypto==1.2.5
+
 py-tgcalls==2.2.11
 ntgcalls==2.1.0
 
