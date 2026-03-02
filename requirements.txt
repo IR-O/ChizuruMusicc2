@@ -1,6 +1,7 @@
 pyrogram==2.0.106
 py-tgcalls==0.5.5
 tgcrypto==1.2.5
+
 ffmpeg-python
 python-dotenv
 youtube_search
@@ -14,4 +15,4 @@ pydub
 aiohttp
 motor
 lexica-api
-bs4
+beautifulsoup4
