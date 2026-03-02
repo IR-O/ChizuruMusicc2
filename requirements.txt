@@ -1,18 +1,17 @@
 pyrogram==2.0.106
-py-tgcalls==0.5.5
-tgcrypto==1.2.5
+py-tgcalls==2.2.5
+tgcrypto
 
-ffmpeg-python
 python-dotenv
-youtube_search
+ffmpeg-python
 yt-dlp
-pytube
+youtube_search
 pillow
 aiofiles
-numpy
-wget
-pydub
 aiohttp
 motor
-lexica-api
+wget
+pydub
+numpy
 beautifulsoup4
+lexica-api
