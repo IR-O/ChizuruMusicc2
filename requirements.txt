@@ -1,17 +1,10 @@
 pyrogram==2.0.106
-py-tgcalls==2.2.5
 tgcrypto
+py-tgcalls==2.2.11
+ntgcalls==2.1.0
 
-python-dotenv
-ffmpeg-python
 yt-dlp
 youtube_search
-pillow
-aiofiles
 aiohttp
 motor
-wget
-pydub
-numpy
-beautifulsoup4
-lexica-api
+pillow
