@@ -1,8 +1,9 @@
+pyrogram==2.0.106
+py-tgcalls==0.5.0
+tgcrypto==1.2.5
+
 ffmpeg-python
-py-tgcalls==2.2.5
-pyrogram
 python-dotenv
-tgcrypto
 youtube_search
 yt-dlp
 pytube
